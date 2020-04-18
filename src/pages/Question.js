@@ -8,7 +8,6 @@ import { useSelector } from 'react-redux'
 import '../Styling/question.css'
 import Countdown from 'react-countdown';
 
-
 export const Question = () => {
     const [answered, setAnswered] = useState(false)
     const [userAnswer, setUserAnswer] = useState(null)

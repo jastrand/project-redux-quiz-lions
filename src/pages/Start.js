@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import '../Styling/buttons.css'
-
+import "../Styling/buttons.css"
+import "../Styling/start.css"
 
 export const StartPage = () => {
     return (
