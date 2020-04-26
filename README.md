@@ -11,7 +11,7 @@ This is a mob-programming built remote during Technigo Bootcamp. 7 frontend deve
 
 ## View it live
 
-https://optimistic-wing-0769fc.netlify.app/quiz
+https://optimistic-wing-0769fc.netlify.app/
 
 
 
